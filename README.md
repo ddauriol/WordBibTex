@@ -1,10 +1,10 @@
 ## WordBibTex
-Este projeto tem como objetivo fornecer uma alternativa para importação de citações ou bibliotecas no formato BibTex diretamente para o MS Word. O editor de texto do windows, já possuiu um sistema de citações, entretando, somente suporta bibliotecas no formato XML específico.
-Inicialmente a ferramenta de improtação de BibTex será disponibilizada, e posteriormente, a opção de consulta de DOI, ISSN, ISBN e até mesmo consultas indiretas por autores, livros e artigos.
+Este projeto tem como objetivo fornecer uma alternativa para importação de citações ou bibliotecas no formato BibTex diretamente para o MS Word. O editor de texto do Windows, já possuiu um sistema de citações, entretanto, somente suporta bibliotecas no formato XML específico.
+Inicialmente a ferramenta de importação de BibTex será disponibilizada, e posteriormente, a opção de consulta de DOI, ISSN, ISBN e até mesmo consultas indiretas por autores, livros e artigos.
 
 
-### Improtação de bibliotecas
-A ferramenta de improtação possibilita, inserir uma citação única, corrigir a citação antes da importação e inserção em massa.
+### Importação de bibliotecas
+A ferramenta de importação possibilita, inserir uma citação única, corrigir a citação antes da importação e inserção em massa.
 ![WordBibTex](WordBibTex_FULL.gif)
 
 
@@ -27,10 +27,10 @@ Vá até a lista de macros e execute _*"WordBibTex"*_
 - [x] Interface para importação de arquivos BibTex
 - [x] Disponibilizar no GitHub em Pt-BR.
 - [ ] Disponibilizar no GitHub em En-Us.
-- [ ] Veriricar compatibilidade com versão diversas de BibTex.
+- [ ] Verificar compatibilidade com versão diversas de BibTex.
 - [ ] Realizar teste complexos e tratar erros.
 - [ ] Inserir busca / consulta por DOI
 - [ ] Inserir busca / consulta por ISBN
-- [ ] Intergrar com Google Books, Google Academic e outras plataformas.
+- [ ] Integrar com Google Books, Google Schoolar e outras plataformas.
 - [ ] Permitir inserção direta de arquivos.
 - [ ] Permitir exportação da biblioteca do MS Word em formato BibTex.
